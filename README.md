@@ -1,3 +1,3 @@
 # ZombieDice
 
-#Criação de um jogo 100% em python, para a materia Reciocionio computacional da PUCPR.
+#Criação de um jogo 100% em python, para a matéria Reciocíonio computacional da PUCPR.
